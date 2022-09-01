@@ -46,4 +46,3 @@ Tendo isso em mente, no API alguns requisitos são colocados obrigatóriamente, 
 <li>Compatibilidade com servidor integrado a intranet da instituição para poder ser acessado de diferentes terminais.</li>
 
 </body>
------------------------------------------------------------------------------------------------------------------
