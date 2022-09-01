@@ -22,3 +22,28 @@ Dentro do conceito de Trade-Off, pensando nos projetos de API:
 Quando analisamos o Trade-Off, precisamos entender que nenhum tipo de software é perfeito, isento de falhas ou limitações. Qualquer Software que diga o contrário estaria mentindo.
 Tendo isso em mente, no API alguns requisitos são colocados obrigatóriamente, como a linguagem de programação. Outros são opcionais ou desejaveis, como a escolha do banco de dados. É justamente nessa flexibilização que vai garantir a individualidade de cada projeto independente do numero de equipes, pois com essa flexibilização, o grupo pode analizar as vantagens e desvantagens de se utilizar determinada ferramenta ou software, e assim, ter as informações necessarias para tomar as decisões mais adequadas para o desenvolvimento do projeto.
 
+---------------------------------------------------------------------------------------------------------
+
+<h3><p>Tarefa Requisitos</p>
+  SISCOFIS (Sistema Controle Físico)</h3>
+<body>
+  <br>
+  <h4>Requisitos Funcionais (Story Cards)</h4>
+
+<li>Administrador cadastra Usuários com o nome e uma senha e a seção em que trabalha.</li>
+<li>Administrador cadastra objetos com um código único de 8 (oito) carácteres gerado aleatoriamente, data de aquisição, local que será empregado e características físicas do objeto (cor, modelo, tipo).</li>
+<li>Administrador edita usuários excluindo o perfil ou alterando as permissões.</li>
+<li>Administrador edita objetos alterando somente o local em que está sendo empregado ou excluindo o objeto da relação cadastrada.</li>
+<li>Administrador imprime relação de materiais mostrando o perfil responsável pela impressão, o locar empregado a data de aquisição o código único e as características físicas do objeto (cor, modelo, tipo).</li>
+<li>Usuário cadastra objetos com um código único de 8 (oito) carácteres gerado aleatoriamente, data de aquisição, local que será empregado e características físicas do objeto (cor, modelo, tipo).</li>
+<li>Usuário edita objetos alterando somente o local em que está sendo empregado ou excluindo o objeto da relação cadastrada.</li>
+<li>Usuário imprime relação de materiais mostrando o perfil responsável pela impressão, locar empregado a data de aquisição o código único e as características físicas do objeto (cor, modelo, tipo).</li>
+
+
+  <h4>Requisitos Não Funcionais</h4>
+
+<li>Interface objetiva, de fácil interação com o usuário.</li>
+<li>Compatibilidade com servidor integrado a intranet da instituição para poder ser acessado de diferentes terminais.</li>
+
+</body>
+-----------------------------------------------------------------------------------------------------------------
