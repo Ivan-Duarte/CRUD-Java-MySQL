@@ -28,7 +28,7 @@ Frameworks como o SCRUM, por exemplo, permite que a equipe possa, ao longo do de
   SISCOFIS (Sistema Controle Físico)</h3>
   <h4>Requisitos Funcionais (Story Cards)</h4>
 
-<li><p style="padding-left:10px">Administrador cadastra Usuários com o nome e uma senha e a seção em que trabalha.</p></li>
+<li>Administrador cadastra Usuários com o nome e uma senha e a seção em que trabalha.</li>
 <li>Administrador cadastra objetos com um código único de 8 (oito) carácteres gerado aleatoriamente, data de aquisição, local que será empregado e características físicas do objeto (cor, modelo, tipo).</li>
 <li>Administrador edita usuários excluindo o perfil ou alterando as permissões.</li>
 <li>Administrador edita objetos alterando somente o local em que está sendo empregado ou excluindo o objeto da relação cadastrada.</li>
