@@ -44,6 +44,8 @@ Frameworks como o SCRUM, por exemplo, permite que a equipe possa, ao longo do de
 <li>Compatibilidade com servidor integrado a intranet da instituição para poder ser acessado de diferentes terminais.</li>
   
 ---
-<h4>Diagrama de Caso de Uso</h4>
+<h3>UML (Unified Modeling Language)</h3>
 
-<img src="Caso de Uso.png" width=60 height=40>
+<img src="https://github.com/Ivan-Duarte/Bertoti/blob/main/Engenharia%20I/Imagens/Caso%20de%20Uso.PNG" width=70% height=350>
+
+---
