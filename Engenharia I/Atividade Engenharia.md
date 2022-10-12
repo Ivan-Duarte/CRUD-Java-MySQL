@@ -46,6 +46,6 @@ Frameworks como o SCRUM, por exemplo, permite que a equipe possa, ao longo do de
 ---
 <h3>UML (Unified Modeling Language)</h3>
 
-<img src="https://github.com/Ivan-Duarte/Bertoti/blob/main/Engenharia%20I/Imagens/Caso%20de%20Uso.PNG" width=70% height=350>
+<img src="https://github.com/Ivan-Duarte/Bertoti/blob/main/Engenharia%20I/Imagens/Diagrama%20de%20Caso%20de%20Uso.PNG" width=70% height=350>
 
 ---
