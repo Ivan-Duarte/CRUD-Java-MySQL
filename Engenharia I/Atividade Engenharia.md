@@ -51,3 +51,12 @@ Frameworks como o SCRUM, por exemplo, permite que a equipe possa, ao longo do de
 ---
 
 <h2>Diagrama de Classes UML</h2>
+
+<h3>Package Model.Bean</h3>
+<img src="https://github.com/Ivan-Duarte/Bertoti/blob/main/Engenharia%20I/Imagens/Diagrama%20de%20Caso%20de%20Uso.jpg" width=70% height=350>
+<h3>Package Connection</h3>
+<img src="https://github.com/Ivan-Duarte/Bertoti/blob/main/Engenharia%20I/Imagens/Diagrama%20de%20Caso%20de%20Uso.jpg" width=70% height=350>
+<h3>Package ModelDAO</h3>
+<img src="https://github.com/Ivan-Duarte/Bertoti/blob/main/Engenharia%20I/Imagens/Diagrama%20de%20Caso%20de%20Uso.jpg" width=70% height=350>
+
+---
