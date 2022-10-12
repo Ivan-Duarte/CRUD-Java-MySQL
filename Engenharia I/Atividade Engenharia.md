@@ -24,9 +24,9 @@ Frameworks como o SCRUM, por exemplo, permite que a equipe possa, ao longo do de
 
 ---
 
-<h3><p>Tarefa Requisitos</p>
-  SISCOFIS (Sistema Controle Físico)</h3>
-  <h4>Requisitos Funcionais (Story Cards)</h4>
+<h2><p>Tarefa Requisitos</p>
+  SISCOFIS (Sistema Controle Físico)</h2>
+  <h3>Requisitos Funcionais (Story Cards)</h3>
 
 <li>Administrador cadastra Usuários com o nome e uma senha e a seção em que trabalha.</li>
 <li>Administrador cadastra objetos com um código único de 8 (oito) carácteres gerado aleatoriamente, data de aquisição, local que será empregado e características físicas do objeto (cor, modelo, tipo).</li>
@@ -38,7 +38,7 @@ Frameworks como o SCRUM, por exemplo, permite que a equipe possa, ao longo do de
 <li>Usuário imprime relação de materiais mostrando o perfil responsável pela impressão, locar empregado a data de aquisição o código único e as características físicas do objeto (cor, modelo, tipo).</li>
 
 
-  <h4>Requisitos Não Funcionais</h4>
+  <h3>Requisitos Não Funcionais</h3>
 
 <li>Interface objetiva, de fácil interação com o usuário.</li>
 <li>Compatibilidade com servidor integrado a intranet da instituição para poder ser acessado de diferentes terminais.</li>
