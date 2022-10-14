@@ -60,3 +60,6 @@ Frameworks como o SCRUM, por exemplo, permite que a equipe possa, ao longo do de
 <img src="https://github.com/Ivan-Duarte/Bertoti/blob/main/Engenharia%20I/Imagens/Diagrama%20de%20Classe%20UML%20-%20ModelDAO.PNG" width=70% height=400>
 
 ---
+
+<h2>Diagram de Entidade de Relacionamento DER</h2>
+<img src="https://github.com/Ivan-Duarte/Bertoti/blob/main/Engenharia%20I/Imagens/Diagrama%20de%20Classe%20UML%20-%20ModelDAO.PNG" width=70% height=400>
