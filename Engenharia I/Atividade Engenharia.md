@@ -69,4 +69,4 @@ Frameworks como o SCRUM, por exemplo, permite que a equipe possa, ao longo do de
 ---
 
 <h3>Tela Login</h3>
-<video src="https://www.youtube.com/watch?v=lKAyRtaPahU" type="video/mp4">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lKAyRtaPahU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
