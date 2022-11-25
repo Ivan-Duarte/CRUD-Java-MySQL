@@ -74,6 +74,10 @@ Frameworks como o SCRUM, por exemplo, permite que a equipe possa, ao longo do de
 ---
 
 <h3>Tela Administrador</h3>
+<h4>Tabela Itens</h4>
+<img src="https://github.com/Ivan-Duarte/Bertotti/blob/main/Imagens%20Demo/ImagemTelaAdm.png?raw=true" width=90% height=600>
+
+<h4>Tabela Usuario</h4>
 <img src="https://github.com/Ivan-Duarte/Bertotti/blob/main/Imagens%20Demo/ImagemTelaAdm.png?raw=true" width=90% height=600>
 
 ---
