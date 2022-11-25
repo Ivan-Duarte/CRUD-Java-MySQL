@@ -24,7 +24,8 @@ Frameworks como o SCRUM, por exemplo, permite que a equipe possa, ao longo do de
 
 ---
 
-<h2><p>Tarefa Requisitos</p>
+
+<h2><p>📋 Tarefa Requisitos</p>
   SISCOFIS (Sistema Controle Físico)</h2>
   <h3>Requisitos Funcionais (Story Cards)</h3>
 
