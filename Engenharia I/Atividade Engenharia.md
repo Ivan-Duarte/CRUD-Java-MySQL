@@ -46,7 +46,7 @@ Frameworks como o SCRUM, por exemplo, permite que a equipe possa, ao longo do de
 ---
 <h2>Diagrama de Caso de Uso</h2>
 
-<img src="https://github.com/Ivan-Duarte/Bertoti/blob/main/Engenharia%20I/Imagens/Diagrama%20de%20Caso%20de%20Uso.jpg" width=70% height=400>
+<img src="https://github.com/Ivan-Duarte/Bertotti/blob/main/Diagrama%20de%20Caso%20de%20Uso/Diagrama%20de%20Caso%20de%20Uso.PNG?raw=true" width=70% height=400>
 
 ---
 
