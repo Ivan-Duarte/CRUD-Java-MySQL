@@ -54,11 +54,11 @@ Frameworks como o SCRUM, por exemplo, permite que a equipe possa, ao longo do de
 <h2>Diagrama de Classes UML</h2>
 
 <h3>Package Model.Bean</h3>
-<img src="https://github.com/Ivan-Duarte/Bertotti/blob/main/Diagramas%20de%20Entidades/Diagrama%20de%20Classe%20UML%20-%20ModelBean.PNG?raw=true" width=85% height=400>
+<img src="https://github.com/Ivan-Duarte/Bertotti/blob/main/Diagramas%20de%20Entidades/Diagrama%20de%20Classe%20UML%20-%20ModelBean.PNG?raw=true" width=90% height=400>
 <h3>Package Connection</h3>
-<img src="https://github.com/Ivan-Duarte/Bertotti/blob/main/Diagramas%20de%20Entidades/Diagrama%20de%20Classe%20UML%20-%20connection.PNG?raw=true" width=85% height=400>
+<img src="https://github.com/Ivan-Duarte/Bertotti/blob/main/Diagramas%20de%20Entidades/Diagrama%20de%20Classe%20UML%20-%20connection.PNG?raw=true" width=90% height=400>
 <h3>Package ModelDAO</h3>
-<img src="https://github.com/Ivan-Duarte/Bertotti/blob/main/Diagramas%20de%20Entidades/Diagrama%20de%20Classe%20UML%20-%20ModelDAO.PNG?raw=true" width=85% height=400>
+<img src="https://github.com/Ivan-Duarte/Bertotti/blob/main/Diagramas%20de%20Entidades/Diagrama%20de%20Classe%20UML%20-%20ModelDAO.PNG?raw=true" width=90% height=400>
 
 ---
 
