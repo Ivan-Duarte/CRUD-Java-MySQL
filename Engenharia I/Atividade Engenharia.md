@@ -45,6 +45,12 @@ Frameworks como o SCRUM, por exemplo, permite que a equipe possa, ao longo do de
 <li>Compatibilidade com servidor integrado a intranet da instituição para poder ser acessado de diferentes terminais.</li>
   
 ---
+
+<h2>Diagram de Entidade de Relacionamento DER</h2>
+<img src="https://github.com/Ivan-Duarte/Bertotti/blob/main/Banco%20de%20Dados/Banco-SISCOFIS.png" width=70% height=400>
+
+---
+
 <h2>Diagrama de Caso de Uso</h2>
 
 <img src="https://github.com/Ivan-Duarte/Bertotti/blob/main/Diagrama%20de%20Caso%20de%20Uso/Diagrama%20de%20Caso%20de%20Uso.PNG?raw=true" width=70% height=400>
@@ -61,6 +67,3 @@ Frameworks como o SCRUM, por exemplo, permite que a equipe possa, ao longo do de
 <img src="https://github.com/Ivan-Duarte/Bertotti/blob/main/Diagramas%20de%20Entidades/Diagrama%20de%20Classe%20UML%20-%20ModelDAO.PNG?raw=true" width=90% height=400>
 
 ---
-
-<h2>Diagram de Entidade de Relacionamento DER</h2>
-<img src="https://github.com/Ivan-Duarte/Bertotti/blob/main/Banco%20de%20Dados/Banco-SISCOFIS.png" width=70% height=400>
