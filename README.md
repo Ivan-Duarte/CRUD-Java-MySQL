@@ -1,5 +1,8 @@
 <h2><p>📋 Tarefa Requisitos</p>
   SISCOFIS (Sistema Controle Físico)</h2>
+  
+ ATENÇÃO: Este é um projeto acadêmico com finalidade de aplicar a aprendizagem de desenvolvimento de aplicações monoliticas na linguagem de programação JAVA, visto isso, esse projeto não tem qualquer relação ao Sistema de Controle Físico utilizado pelas forças armadas, é utilizado o nome "SISCOFIS" apenas como referência para a demonstração desse projeto.
+  
   <h3>Requisitos Funcionais (Story Cards)</h3>
 
 <li>Administrador cadastra Usuários com o nome e uma senha e a seção em que trabalha.</li>
