@@ -23,40 +23,40 @@
 ---
 
 <h2>Diagram de Entidade de Relacionamento DER</h2>
-<img src="https://github.com/Ivan-Duarte/Bertotti/blob/main/Banco%20de%20Dados/Banco-SISCOFIS.png" width=70% height=400 align="middle"/>
+<img src="https://github.com/Ivan-Duarte/Bertotti/blob/main/Banco%20de%20Dados/Banco-SISCOFIS.png" width=70% height=400 align="middle">
 
 ---
 
 <h2>Diagrama de Caso de Uso</h2>
 
-<img src="https://github.com/Ivan-Duarte/Bertotti/blob/main/Diagrama%20de%20Caso%20de%20Uso/Diagrama%20de%20Caso%20de%20Uso.PNG?raw=true" width=70% height=400 align="middle"/>
+<img src="https://github.com/Ivan-Duarte/Bertotti/blob/main/Diagrama%20de%20Caso%20de%20Uso/Diagrama%20de%20Caso%20de%20Uso.PNG?raw=true" width=70% height=400 align="middle">
 
 ---
 
 <h2>Diagrama de Classes UML</h2>
 
 <h3>Package Model.Bean</h3>
-<img src="https://github.com/Ivan-Duarte/Bertotti/blob/main/Diagramas%20de%20Entidades/Diagrama%20de%20Classe%20UML%20-%20ModelBean.PNG?raw=true" width=90% height=400 align="middle"/>
+<img src="https://github.com/Ivan-Duarte/Bertotti/blob/main/Diagramas%20de%20Entidades/Diagrama%20de%20Classe%20UML%20-%20ModelBean.PNG?raw=true" width=90% height=400 align="middle">
 <h3>Package Connection</h3>
-<img src="https://github.com/Ivan-Duarte/Bertotti/blob/main/Diagramas%20de%20Entidades/Diagrama%20de%20Classe%20UML%20-%20connection.PNG?raw=true" width=90% height=400 align="middle"/>
+<img src="https://github.com/Ivan-Duarte/Bertotti/blob/main/Diagramas%20de%20Entidades/Diagrama%20de%20Classe%20UML%20-%20connection.PNG?raw=true" width=90% height=400 align="middle">
 <h3>Package ModelDAO</h3>
-<img src="https://github.com/Ivan-Duarte/Bertotti/blob/main/Diagramas%20de%20Entidades/Diagrama%20de%20Classe%20UML%20-%20ModelDAO.PNG?raw=true" width=90% height=400 align="middle"/>
+<img src="https://github.com/Ivan-Duarte/Bertotti/blob/main/Diagramas%20de%20Entidades/Diagrama%20de%20Classe%20UML%20-%20ModelDAO.PNG?raw=true" width=90% height=400 align="middle">
 
 ---
 
 <h3>Tela Login</h3>
-<img src="https://github.com/Ivan-Duarte/Bertotti/blob/main/Imagens%20Demo/ImagemLogin.png?raw=true" width=90% height=600 align="middle"/>
+<img src="https://github.com/Ivan-Duarte/Bertotti/blob/main/Imagens%20Demo/ImagemLogin.png?raw=true" width=90% height=600 align="middle">
 
 ---
 
 <h3>Tela Administrador</h3>
 <h4>Tabela Itens</h4>
-<img src="https://github.com/Ivan-Duarte/Bertotti/blob/main/Imagens%20Demo/ImagemTelaAdm.png?raw=true" width=80% height=600 align="middle"/>
+<img src="https://github.com/Ivan-Duarte/Bertotti/blob/main/Imagens%20Demo/ImagemTelaAdm.png?raw=true" width=90% height=600 align="middle">
 
 <h4>Tabela Usuario</h4>
-<img src="https://github.com/Ivan-Duarte/Bertotti/blob/main/Imagens%20Demo/ImagemTelaAdmUsu.png?raw=true" width=80% height=600 align="middle"/>
+<img src="https://github.com/Ivan-Duarte/Bertotti/blob/main/Imagens%20Demo/ImagemTelaAdmUsu.png?raw=true" width=90% height=600 align="middle">
 
 ---
 
 <h3>Tela Usuario</h3>
-<img src="https://github.com/Ivan-Duarte/Bertotti/blob/main/Imagens%20Demo/ImagemTelaUsu.png?raw=true" width=80% height=600 align="middle"/>
+<img src="https://github.com/Ivan-Duarte/Bertotti/blob/main/Imagens%20Demo/ImagemTelaUsu.png?raw=true" width=90% height=600 align="middle">
