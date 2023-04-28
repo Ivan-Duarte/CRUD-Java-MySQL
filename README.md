@@ -23,7 +23,7 @@
 ---
 
 <h2>Diagram de Entidade de Relacionamento DER</h2>
-<img src="https://github.com/Ivan-Duarte/Bertotti/blob/main/Banco%20de%20Dados/Banco-SISCOFIS.png" width=70% height=400>
+<img src="https://github.com/Ivan-Duarte/Bertotti/blob/main/Banco%20de%20Dados/Banco-SISCOFIS.png" width=70% height=400 align="middle">
 
 ---
 
@@ -59,4 +59,4 @@
 ---
 
 <h3>Tela Usuario</h3>
-<img src="https://github.com/Ivan-Duarte/Bertotti/blob/main/Imagens%20Demo/ImagemTelaUsu.png?raw=true" width=90% height=600>
+<img src="https://github.com/Ivan-Duarte/Bertotti/blob/main/Imagens%20Demo/ImagemTelaUsu.png?raw=true" width=90% height=600 align="middle">
