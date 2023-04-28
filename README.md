@@ -51,12 +51,12 @@
 
 <h3>Tela Administrador</h3>
 <h4>Tabela Itens</h4>
-<img src="https://github.com/Ivan-Duarte/Bertotti/blob/main/Imagens%20Demo/ImagemTelaAdm.png?raw=true" width=90% height=600 align="middle"/>
+<img src="https://github.com/Ivan-Duarte/Bertotti/blob/main/Imagens%20Demo/ImagemTelaAdm.png?raw=true" width=80% height=600md align="middle"/>
 
 <h4>Tabela Usuario</h4>
-<img src="https://github.com/Ivan-Duarte/Bertotti/blob/main/Imagens%20Demo/ImagemTelaAdmUsu.png?raw=true" width=90% height=600 align="middle"/>
+<img src="https://github.com/Ivan-Duarte/Bertotti/blob/main/Imagens%20Demo/ImagemTelaAdmUsu.png?raw=true" width=80% height=600md align="middle"/>
 
 ---
 
 <h3>Tela Usuario</h3>
-<img src="https://github.com/Ivan-Duarte/Bertotti/blob/main/Imagens%20Demo/ImagemTelaUsu.png?raw=true" width=90% height=600 align="right"/>
+<img src="https://github.com/Ivan-Duarte/Bertotti/blob/main/Imagens%20Demo/ImagemTelaUsu.png?raw=true" width=80% height=600md align="middle"/>
