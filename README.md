@@ -60,3 +60,6 @@
 
 <h3>Tela Usuario</h3>
 <img src="https://github.com/Ivan-Duarte/Bertotti/blob/main/Imagens%20Demo/ImagemTelaUsu.png?raw=true" width=90% height=600 align="middle">
+
+---
+<h3>O projeto ainda está sujeito a muitas melhorias, esse foi meu primeiro CRUD na linguagem JAVA</h3>
