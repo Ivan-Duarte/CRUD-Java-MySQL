@@ -59,4 +59,4 @@
 ---
 
 <h3>Tela Usuario</h3>
-<img src="https://github.com/Ivan-Duarte/Bertotti/blob/main/Imagens%20Demo/ImagemTelaUsu.png?raw=true" width=80% height=600 align="left"/>
+<img src="https://github.com/Ivan-Duarte/Bertotti/blob/main/Imagens%20Demo/ImagemTelaUsu.png?raw=true" width=80% height=600 align="right"/>
