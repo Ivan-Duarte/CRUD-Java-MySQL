@@ -1,7 +1,7 @@
 <h2><p>📋 Tarefa Requisitos</p>
   SISCOFIS (Sistema Controle Físico)</h2>
   
- ATENÇÃO: Este é um projeto acadêmico com finalidade de aplicar a aprendizagem de desenvolvimento de aplicações monoliticas na linguagem de programação JAVA, visto isso, esse projeto não tem qualquer relação ao Sistema de Controle Físico utilizado pelas forças armadas, é utilizado o nome "SISCOFIS" apenas como referência para a demonstração desse projeto.
+ ❗❗❗ ATENÇÃO: Este é um projeto acadêmico com finalidade de aplicar a aprendizagem de desenvolvimento de aplicações monoliticas na linguagem de programação JAVA, visto isso, esse projeto não tem qualquer relação ao Sistema de Controle Físico utilizado pelas forças armadas, é utilizado o nome "SISCOFIS" apenas como referência para a demonstração desse projeto.
   
   <h3>Requisitos Funcionais (Story Cards)</h3>
 
@@ -62,4 +62,4 @@
 <img src="https://github.com/Ivan-Duarte/Bertotti/blob/main/Imagens%20Demo/ImagemTelaUsu.png?raw=true" width=90% height=600 align="middle">
 
 ---
-<h3>O projeto ainda está sujeito a muitas melhorias, esse foi meu primeiro CRUD na linguagem JAVA</h3>
+<h4>- O projeto ainda está sujeito a muitas melhorias, esse foi meu primeiro CRUD na linguagem JAVA 😅 <br>- A minha ideia e melhorar a interface e adequar meu codigo a boas praticas de programação seguindo as convenções 🔁</h4>
