@@ -3,7 +3,7 @@
   
  ❗❗❗ ATENÇÃO: Este é um projeto acadêmico com finalidade de aplicar a aprendizagem de desenvolvimento de aplicações monoliticas na linguagem de programação JAVA, visto isso, esse projeto não tem qualquer relação ao Sistema de Controle Físico utilizado pelas forças armadas, é utilizado o nome "SISCOFIS" apenas como referência para a demonstração desse projeto.
   
-  <h3>Requisitos Funcionais (Story Cards)</h3>
+  <h3>Requisitos Funcionais </h3>
 
 <li>Administrador cadastra Usuários com o nome e uma senha e a seção em que trabalha.</li>
 <li>Administrador cadastra objetos com um código único de 8 (oito) carácteres gerado aleatoriamente, data de aquisição, local que será empregado e características físicas do objeto (cor, modelo, tipo).</li>
